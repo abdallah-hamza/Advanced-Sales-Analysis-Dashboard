@@ -1,10 +1,10 @@
-# Advanced-Sales-Analysis-Dashboard
-# 📊 Enterprise Sales Analytics Dashboard (Power BI)
+📊 Enterprise Sales Analytics Dashboard (Power BI)
 
 🎯 Project Overview
 A comprehensive Power BI business intelligence solution designed to analyze and visualize sales performance across multiple business dimensions.
 
 This project delivers a full analytical experience tailored for both executive leadership (C-Level) and operational sales teams, enabling data-driven decision-making through interactive dashboards and advanced analytics.
+
 
 
 🌟 Key Features
@@ -16,11 +16,13 @@ This project delivers a full analytical experience tailored for both executive l
 - Strategic insights with clean and professional layout
 
 
+
 📊 Sales Operational Dashboard
 - Detailed sales performance tracking
 - Monthly trends (Ordered Amount vs Delivered Amount)
 - Category & Subcategory performance
 - Country-level sales analysis
+
 
 
 📈 Advanced Analytical Pages
@@ -68,12 +70,14 @@ This project delivers a full analytical experience tailored for both executive l
 - Manual period comparison (Period 1 vs Period 2)
 
 
+
 🛠️ Technical Implementation
 
 📐 Data Modeling
 - Star Schema design
 - Fact & Dimension tables
 - Data model optimization and relationship corrections
+
 
 
 ⚙️ DAX Calculations
@@ -89,10 +93,12 @@ This project delivers a full analytical experience tailored for both executive l
   - Dynamic comparisons
 
 
+
 🔐 Row Level Security (RLS)
 - User-based access control:
   - User A → Full access to TV & Video category
   - User B → Access to specific subcategory
+
 
 
 🎨 Dashboard Design
@@ -102,12 +108,10 @@ This project delivers a full analytical experience tailored for both executive l
 - Use of icons and conditional formatting
 
 
+
 📊 Business Insights
 - Identified top-performing categories and subcategories
 - Analyzed delivery performance gaps
 - Evaluated KPI achievement vs targets
 - Provided geographic sales distribution insights
 - Assessed promotional effectiveness
----
-
-## 📂 Project Str
