@@ -108,7 +108,6 @@ This project delivers a full analytical experience tailored for both executive l
 - Evaluated KPI achievement vs targets
 - Provided geographic sales distribution insights
 - Assessed promotional effectiveness
-
 ---
 
-## 📂 Project Structure
+## 📂 Project Str
