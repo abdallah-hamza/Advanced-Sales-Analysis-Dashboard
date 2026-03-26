@@ -115,3 +115,13 @@ This project delivers a full analytical experience tailored for both executive l
 - Evaluated KPI achievement vs targets
 - Provided geographic sales distribution insights
 - Assessed promotional effectiveness
+
+📥 Download Dashboard
+Due to file size limitations on GitHub, you can download the Power BI file from the link below:
+
+🔗 https://drive.google.com/file/d/1PV0NDnN4Gkk6TySVC_NF25OZqzD7xDyS/view?usp=sharing
+
+
+
+
+
